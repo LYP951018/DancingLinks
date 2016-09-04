@@ -1,5 +1,5 @@
 ﻿#pragma once
 
-#include "Dlx.hpp"
+#include <cstdint>
 
 std::uint32_t SolveNQueen(std::uint32_t n);

@@ -1,5 +1,4 @@
 ﻿#include "Dlx.hpp"
-#include <algorithm> 
 
 void Dlx::swap(Dlx& other) noexcept
 {
